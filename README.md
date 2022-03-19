@@ -1,7 +1,9 @@
 # SCHOOP
 
 E-commerce apps for students and digital libraries using Flutter.
-Video Application: https://youtu.be/uKYGcYmnmkg
+
+Video Application: 
+https://youtu.be/uKYGcYmnmkg
 
 ## Getting Started
 
