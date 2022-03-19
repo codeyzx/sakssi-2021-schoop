@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "484700379952",
+    "project_id": "schoop-1337",
+    "storage_bucket": "schoop-1337.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484700379952:android:ea93bd63788af7fe82c6f5",
+        "android_client_info": {
+          "package_name": "com.sakssi.schoop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484700379952-a5n1hp1qdfihos6dfp8pf4i3gkfhmst3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACB2qZ849Iy_o0Ih1DIWuhZ9qPstGTQrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484700379952-a5n1hp1qdfihos6dfp8pf4i3gkfhmst3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
